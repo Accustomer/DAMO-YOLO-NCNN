@@ -20,4 +20,4 @@ path-to-ncnnoptimize.exe path-to-damoyolo.param path-to-damoyolo.bin path-to-dam
 Load and inference NCNN models as the way in **damo-yolo.cpp**. Here is an example of detection result:
 ![000000000597-mark](images/000000000597-mark.jpg)
 
-See more details in 
+See more details in https://zhuanlan.zhihu.com/p/630885217
